@@ -1,0 +1,18 @@
+DSA
+
+Before codeing we should check these
+
+step 1
+what is the inputs required
+
+step 2
+what is the output
+
+step 3
+waht are the edge cases
+
+step 4
+time comlexity
+
+step 5
+space complexity
